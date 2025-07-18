@@ -1,7 +1,7 @@
 <h1 align="left">Hi There 👋! My name is Ravi</h1>
 
 ### About me
-<p align="left">* 📱  I'm a System Analyst / Python developer<br>* 🌍  I'm based in Florianopolis, SC, Brazil<br>* 📖  I'm studying Computer Science at "Universidade Federal de Santa Catarina"<br>* 💻  I'm currently open to work!</p>
+<p align="left">* 📱  I'm a System Analyst / Python developer<br>* 🌍  I'm based in Florianopolis, SC, Brazil<br>* 📖  I'm studying Computer Science at "Universidade Federal de Santa Catarina"<br>* 💻  I'm working for Portobello!</p>
 
 ### Connect with me
 <div align="left">
